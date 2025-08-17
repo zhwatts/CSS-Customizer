@@ -8,7 +8,7 @@
     "service_worker": "background.js"
   },
   "action": {
-    "default_icon": "icon.png"
+    "default_icon": "icons/maximizer-icon-off.png"
   },
   "content_scripts": [
     {
